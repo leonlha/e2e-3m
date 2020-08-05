@@ -9,16 +9,21 @@ iCassava'19: 93.68%
 
 ## Prerequisites
 We tested our codes for the following current version but later versions may work too</br>
+</br>
+iCassava'19 dataset can be downloaded from https://www.kaggle.com/c/cassava-disease/</br>
 For codes to run on Linux dedicated server:</br>
 - Ubuntu 18.04.4 LTS</br>
 - CUDA 9</br>
 - Python 3.6</br>
-- TensorFlow 1.12.0</br>
+- TensorFlow-GPU 1.12.0</br>
 - Keras 2.2.4</br>
+- Numpy 1.19.0</br>
+- Jupyter Notebook 6.0.3
 
 For codes to run on Colab virtual server</br>
 
-## Installation
+## How to run
+Just open ipynb files in Jupyter Notebook
 
 ## Citation
 ```citation
