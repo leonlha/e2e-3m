@@ -41,8 +41,5 @@ Just open and run an ipynb file in Jupyter Notebook, the content should be self-
 }
 ```
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
 # Contact for Issues
 Nguyen Huu Phong, phong@dei.uc.pt
