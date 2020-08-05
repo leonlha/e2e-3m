@@ -12,6 +12,7 @@ We tested our codes for the following current version but later versions may wor
 For codes to run on Linux dedicated server:</br>
 - Ubuntu 18.04.4 LTS</br>
 - CUDA 9</br>
+- Python 3.6</br>
 - TensorFlow 1.12.0</br>
 - Keras 2.2.4</br>
 
