@@ -10,12 +10,12 @@ Fashion-MNIST: 95.92%</br>
 iNaturalist'19: 73.47%</br>
 iCassava'19: 93.68%
 
-## Prerequisites
-We tested our codes for the following current version but later versions may work too</br>
-</br>
+## Datasets
 iCassava'19 dataset can be downloaded from https://www.kaggle.com/c/cassava-disease/</br>
 Fashion-MNIST https://github.com/zalandoresearch/fashion-mnist</br>
-</br>
+
+## Prerequisites
+We tested our codes for the following current version but later versions may also work</br>
 For codes to run on Linux dedicated server:</br>
 - Ubuntu 18.04.4 LTS</br>
 - CUDA 9</br>
