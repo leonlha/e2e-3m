@@ -1,5 +1,5 @@
 # Rethinking Recurrent Neural Networks and other Improvements for Image Classification
-This repository contains code for [the paper](https://arxiv.org/abs/2007.15161)
+This repository contains code for the [paper](https://arxiv.org/abs/2007.15161)
 
 ## Results
 Cifar-10: 98.36%</br>
@@ -24,7 +24,7 @@ For codes to run on Linux dedicated server:</br>
 For codes to run on Colab virtual server</br>
 
 ## How to run
-Just open an ipynb file in Jupyter Notebook, the content is self-explained.
+Just open an ipynb file in Jupyter Notebook, the content should be self-explained.
 
 ## Citation
 ```citation
