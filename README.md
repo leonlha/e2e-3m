@@ -23,7 +23,7 @@ For codes to run on Linux dedicated server:</br>
 For codes to run on Colab virtual server</br>
 
 ## How to run
-Just open ipynb files in Jupyter Notebook
+Just open an ipynb file in Jupyter Notebook, the content is self-explained.
 
 ## Citation
 ```citation
@@ -39,3 +39,6 @@ Just open ipynb files in Jupyter Notebook
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Contact for Issues
+Nguyen Huu Phong, phong@dei.uc.pt
