@@ -27,7 +27,7 @@ For codes to run on Linux dedicated server:</br>
 For codes to run on Colab virtual server</br>
 
 ## How to run
-Just open an ipynb file in Jupyter Notebook, the content should be self-explained.
+Just open and run an ipynb file in Jupyter Notebook, the content should be self-explained.
 
 ## Citation
 ```citation
