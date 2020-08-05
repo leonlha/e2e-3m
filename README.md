@@ -12,7 +12,7 @@ iCassava'19: 93.68%
 
 ## Datasets
 iCassava'19 dataset can be downloaded from https://www.kaggle.com/c/cassava-disease/</br>
-Fashion-MNIST https://github.com/zalandoresearch/fashion-mnist</br>
+Fashion-MNIST `from keras.datasets import fashion_mnist`</br>
 
 ## Prerequisites
 We tested our codes for the following current version but later versions may also work</br>
