@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rethinking-recurrent-neural-networks-and/image-classification-on-cifar-10)](https://paperswithcode.com/sota/image-classification-on-cifar-10?p=rethinking-recurrent-neural-networks-and)
+
 # Rethinking Recurrent Neural Networks and other Improvements for Image Classification
 This repository contains code for the [paper](https://arxiv.org/abs/2007.15161)
 
