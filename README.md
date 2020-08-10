@@ -52,3 +52,4 @@ Just open and run an ipynb file in Jupyter Notebook, the content should be self-
 
 # Contact for Issues
 Nguyen Huu Phong, phong [at] dei [dot] uc [dot] pt
+Bernardete Ribeiro
