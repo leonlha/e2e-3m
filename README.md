@@ -5,39 +5,6 @@
 # Rethinking Recurrent Neural Networks and other Improvements for Image Classification
 This repository contains code for the [paper](https://arxiv.org/abs/2007.15161)
 
-## Abstract
-For a long history of Machine Learning which dates back to several decades, Recurrent Neural Networks (RNNs) have been mainly used for sequential data and time series or generally 1D information. Even in some rare researches on 2D images, the networks merely learn and generate data sequentially rather than for recognition of images. In this research, we propose to integrate RNN as an additional layer in designing image recognition’s models. Moreover, we develop End-to-End Ensemble Multi-models that are able to learn experts’ predictions from several models. Besides, we extend training strategy and softmax pruning which overall leads our designs to perform comparably to top models on several datasets. The source code of the methods provided in this article is available in https://github.com/leonlha/e2e-3m and http://nguyenhuuphong.me.
-
-## Results
-Cifar-10: 98.36%</br>
-Fashion-MNIST: 95.92%</br>
-iNaturalist'19: 73.47%</br>
-iCassava'19: 93.68%
-
-## Datasets
-iCassava'19 dataset can be downloaded from https://www.kaggle.com/c/cassava-disease/</br>
-Fashion-MNIST dataset can be obtained via code `from keras.datasets import fashion_mnist`</br>
-
-## Prerequisites
-We tested our codes for the following current version but later versions may also work</br>
-For codes to run on Linux dedicated server:</br>
-- Ubuntu 18.04.4 LTS</br>
-- CUDA 9</br>
-- Python 3.6.9</br>
-- TensorFlow-GPU 1.12.0</br>
-- Keras 2.2.4</br>
-- Numpy 1.19.0</br>
-- Jupyter Notebook 6.0.3
-
-For codes to run on [Colab GPU](https://colab.research.google.com/):</br>
-- Python 3.6.9</br>
-- TensorFlow-GPU 2.3.0</br>
-- Keras 2.4.3</br>
-- Numpy 1.18.5</br>
-
-## How to run
-Just open and run an ipynb file in Jupyter Notebook, the content should be self-explained.
-
 ## Citation
 ```citation
 @misc{phong2020rethinking,
