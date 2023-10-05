@@ -2,7 +2,7 @@
 This repository contains code for the [paper](https://arxiv.org/abs/2007.15161)
 
 ## Citation
-```citation
+```BibTeX
 @misc{phong2020rethinking,
     title={Rethinking Recurrent Neural Networks and other Improvements for Image Classification},
     author={Nguyen Huu Phong and Bernardete Ribeiro},
